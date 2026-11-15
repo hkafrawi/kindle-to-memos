@@ -1,0 +1,8 @@
+[project]
+name = "clipping-to-memos"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv>=1.0",
+    "requests>=2.31",
+]
