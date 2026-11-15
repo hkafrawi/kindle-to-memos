@@ -1,5 +1,4 @@
 .env
 .venv
-test_kindle_to_memos.py
 upload_preview.md
 uv.lock
